@@ -1,5 +1,5 @@
 version=1
-id=
+id=3845355080
 title=Multiplayer Time Controls
 description=The single-player speed buttons, in multiplayer: pause, normal speed and the three fast-forward speeds (5, 20 and 40 times), in the same place under the clock and on the same keys you use in single player.
 description=

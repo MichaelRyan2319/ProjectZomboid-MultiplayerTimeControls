@@ -44,12 +44,12 @@ back to normal when the server is empty, or when the last admin leaves an "Admin
 
 ## Install from the Steam Workshop
 
-Subscribe to [Multiplayer Time Controls on the Workshop](WORKSHOP_URL).
+Subscribe to [Multiplayer Time Controls on the Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3845355080).
 
 For a server, add both of these to its settings (Host, your server's settings; or the `.ini`):
 
 ```
-WorkshopItems=WORKSHOP_ID
+WorkshopItems=3845355080
 Mods=MultiplayerTimeControls
 ```
 
