@@ -1,0 +1,15 @@
+{
+    "Sandbox_MultiplayerTimeControls": "Multiplayer Time Controls",
+    "Sandbox_MultiplayerTimeControls_WhoCanControl": "Who can change the speed",
+    "Sandbox_MultiplayerTimeControls_WhoCanControl_tooltip": "The speed is one speed for the whole server: when somebody pauses or fast-forwards, it happens for everyone. Admins only: other players still see the buttons and the current speed, but cannot press them.",
+    "Sandbox_MultiplayerTimeControls_WhoCanControl_option1": "Everyone",
+    "Sandbox_MultiplayerTimeControls_WhoCanControl_option2": "Admins only",
+    "Sandbox_MultiplayerTimeControls_AllowPause": "Pausing allowed",
+    "Sandbox_MultiplayerTimeControls_AllowPause_tooltip": "The pause button stops the world for everyone until somebody presses it again or picks a speed. Off: the pause button does nothing.",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed": "Fastest speed",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed_tooltip": "The fastest fast-forward button that works. They are the single-player speeds: x1 is 5 times normal, x2 is 20 times, x3 is 40 times.",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed_option1": "No fast forward",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed_option2": "Fast forward x1 (5 times)",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed_option3": "Fast forward x2 (20 times)",
+    "Sandbox_MultiplayerTimeControls_FastestSpeed_option4": "Fast forward x3 (40 times)"
+}

@@ -1,0 +1,18 @@
+VERSION = 1,
+
+/* Multiplayer Time Controls: what this server allows. Read in Lua as
+   SandboxVars.MultiplayerTimeControls.<name>. The server checks them on every request. */
+
+/* 1 everyone, 2 admins only */
+option MultiplayerTimeControls.WhoCanControl = {
+	type = enum, numValues = 2, default = 1, page = MultiplayerTimeControls, translation = MultiplayerTimeControls_WhoCanControl, valueTranslation = MultiplayerTimeControls_WhoCanControl,
+}
+
+option MultiplayerTimeControls.AllowPause = {
+	type = boolean, default = true, page = MultiplayerTimeControls, translation = MultiplayerTimeControls_AllowPause,
+}
+
+/* 1 no fast forward, 2 up to x5, 3 up to x20, 4 up to x40 (the single-player buttons) */
+option MultiplayerTimeControls.FastestSpeed = {
+	type = enum, numValues = 4, default = 4, page = MultiplayerTimeControls, translation = MultiplayerTimeControls_FastestSpeed, valueTranslation = MultiplayerTimeControls_FastestSpeed,
+}

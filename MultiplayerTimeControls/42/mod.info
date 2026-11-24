@@ -1,0 +1,7 @@
+name=Multiplayer Time Controls
+id=MultiplayerTimeControls
+description=The single-player speed buttons, in multiplayer: pause, normal speed and three fast-forward speeds, under the clock and on your own speed keys. The speed is one speed for the whole server; the server owner decides who may change it, whether pausing is allowed and how fast it may go.
+modversion=1.0.0
+poster=poster.png
+url=https://github.com/MichaelRyan2319/ProjectZomboid-MultiplayerTimeControls
+versionMin=42.22

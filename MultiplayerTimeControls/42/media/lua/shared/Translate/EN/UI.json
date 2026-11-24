@@ -1,0 +1,17 @@
+{
+    "UI_MTC_Speed0": "Pause",
+    "UI_MTC_Speed1": "Normal speed",
+    "UI_MTC_Speed2": "Fast forward x1",
+    "UI_MTC_Speed3": "Fast forward x2",
+    "UI_MTC_Speed4": "Fast forward x3",
+    "UI_MTC_By": "%1 (%2)",
+    "UI_MTC_Paused": "Game paused",
+    "UI_MTC_PausedBy": "Game paused by %1",
+    "UI_MTC_Refused_admin": "Only admins can change the speed on this server",
+    "UI_MTC_Refused_pause": "Pausing is switched off on this server",
+    "UI_MTC_Refused_fast": "That speed is switched off on this server",
+    "UI_MTC_Refused_danger": "Zombies are too close to fast forward",
+    "UI_MTC_Why_moved": "Normal speed: %1 moved or attacked",
+    "UI_MTC_Why_danger": "Normal speed: zombies near %1",
+    "UI_MTC_Why_died": "Normal speed: %1 died"
+}
